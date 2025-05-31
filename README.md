@@ -49,6 +49,7 @@ As a data analyst, your task is to clean, transform, and visualize this data to 
 |--------------|----------------------------------|
 | **Power BI** | Dashboard design and data modeling |
 | **Power Query** | Data cleaning and transformation |
+| **DAX**      | Measures and calculated columns |
 | **Excel**    | Initial data source (CSV/Excel file) |
 
 ---
