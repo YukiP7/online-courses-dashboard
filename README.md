@@ -33,13 +33,13 @@ As a data analyst, your task is to clean, transform, and visualize this data to 
 ## 📊 Dashboard Features
 
 - 📌 **Category-wise Skill Distribution**
-- 🔎 **Top 5 Categories** based on viewer preferences
+- 🔎 **Top 5 Categories** based on viewer preferences(DAX Queries)
 - 🧠 **Skill Frequency Analysis** within each category
 - 🌍 **Language Usage and Preferences**
-- 🎬 **Instructor Ranking** based on ratings
+- 🎬 **Instructor Ranking** based on ratings(DAX Queries)
 - 🧭 **Subtitle Impact Analysis**
 - ⏱ **Course Duration vs. Views** Plot
-- 📅 **Flexible Duration Adjustment** (Monthly and flexible format)
+- 📅 **Flexible Duration Adjustment** (Conversion from Monthly and flexible format into hours)
 
 ---
 
