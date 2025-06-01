@@ -58,6 +58,7 @@ As a data analyst, your task is to clean, transform, and visualize this data to 
 
 - `OnlineCoursesDashboard.pbix` – Power BI Dashboard file
 - `README.md` – Project overview and explanation
+- `online course analysis.pdf` - Screenshot of Dashboard (Category & Sub-Category wise)
 
 ---
 
