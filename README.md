@@ -38,8 +38,8 @@ As a data analyst, your task is to clean, transform, and visualize this data to 
 - 🌍 **Language Usage and Preferences**
 - 🎬 **Instructor Ranking** based on ratings
 - 🧭 **Subtitle Impact Analysis**
-- ⏱ **Course Duration vs. Views** Scatter Plot
-- 📅 **Flexible Timing Adjustment** (Monthly and flexible format)
+- ⏱ **Course Duration vs. Views** Plot
+- 📅 **Flexible Duration Adjustment** (Monthly and flexible format)
 
 ---
 
